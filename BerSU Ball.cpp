@@ -14,6 +14,7 @@ const ll INF=numeric_limits<ll>::max()-1;
 #define ClearBit(x, k) (x &= ~(1LL << k))
 #define yes cout << "YES\n"
 #define no cout << "NO\n"
+#define kk "\\l"
 #define fast ios_base::sync_with_stdio(0);cin.tie(0);
 int32_t main()
 { fast
