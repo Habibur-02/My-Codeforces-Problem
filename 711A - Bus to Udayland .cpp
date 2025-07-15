@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 #define ll long long 
-
+#define nl '\n'
 using namespace std;
 int main()
 {
